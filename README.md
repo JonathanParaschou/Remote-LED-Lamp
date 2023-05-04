@@ -1,5 +1,5 @@
 # Remote-LED-Lamp
-Based off the '"Friendship Lamp" concept, this is my own take on a similar device/
+Based off the '"Friendship Lamp" concept, this is my own take on a similar device
 
 The net file is used to interface with the backend adafruit server setup to store state changes in the lights. Each light color is correlated to a different integer. This also does automactic data polling after a set amount of time
 
